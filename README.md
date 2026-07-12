@@ -3,7 +3,7 @@
 Diese Seite hostet die Datenschutzerklärung der Android-App **Astira**
 (interaktive Echtzeit-Sternenkarte).
 
-- 📄 Live: https://<dein-user>.github.io/astira_privacy/
+- 📄 Live: https://astira-robinchrist.github.io
 - 📱 App: Google Play (Link folgt nach Veröffentlichung)
 - ✉️ Kontakt: astira.info@gmail.com
 
